@@ -12,11 +12,15 @@ module.exports = {
   },
   devtool: "eval-source-map",
   devServer: {
-    watchFiles: ["./src/template.html"],
+    static: "./dist", // Sirve desde dist
+    port: 8080,
+    open: true, // Abre automáticamente el navegador
+    hot: true, // Hot Module Replacement
   },
   plugins: [
     new HtmlWebpackPlugin({
       template: "./src/template.html",
+      filename: "index.html",
     }),
   ],
   module: {
