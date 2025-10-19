@@ -2,6 +2,8 @@
   {
     "id": 1,
     "nombre": "Margarita",
+    "descripcion": "La clásica italiana con tomate, mozzarella y albahaca fresca",
+    "ingredientes": ["tomate", "mozzarella", "albahaca", "aceite de oliva"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -16,6 +18,8 @@
   {
     "id": 2,
     "nombre": "Pepperoni",
+    "descripcion": "Salsa de tomate, queso mozzarella y pepperoni crujiente",
+    "ingredientes": ["tomate", "mozzarella", "pepperoni", "orégano"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -30,6 +34,8 @@
   {
     "id": 3,
     "nombre": "Cuatro Quesos",
+    "descripcion": "Combinación de cuatro quesos italianos seleccionados",
+    "ingredientes": ["mozzarella", "gorgonzola", "parmesano", "queso de cabra"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -44,6 +50,8 @@
   {
     "id": 4,
     "nombre": "Carnívora",
+    "descripcion": "Para los amantes de la carne: jamón, chorizo, carne picada y tocino",
+    "ingredientes": ["jamón", "chorizo", "carne picada", "tocino", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -58,6 +66,8 @@
   {
     "id": 5,
     "nombre": "Vegetariana",
+    "descripcion": "Verduras frescas: pimiento, cebolla, champiñones y tomate",
+    "ingredientes": ["pimiento", "cebolla", "champiñones", "tomate", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -72,6 +82,8 @@
   {
     "id": 6,
     "nombre": "Barbacoa",
+    "descripcion": "Carne ahumada con salsa barbacoa y cebolla caramelizada",
+    "ingredientes": ["carne ahumada", "cebolla", "pimiento", "salsa barbacoa", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -86,6 +98,8 @@
   {
     "id": 7,
     "nombre": "Hawaiana",
+    "descripcion": "Jamón, piña tropical y queso mozzarella",
+    "ingredientes": ["jamón", "piña", "mozzarella", "cebolla"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -100,6 +114,8 @@
   {
     "id": 8,
     "nombre": "Champiñones",
+    "descripcion": "Champiñones frescos salteados con ajo y hierbas aromáticas",
+    "ingredientes": ["champiñones", "ajo", "cebolla", "romero", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -114,6 +130,8 @@
   {
     "id": 9,
     "nombre": "Espinacas y Queso de Cabra",
+    "descripcion": "Espinacas frescas con queso de cabra cremoso y ajo",
+    "ingredientes": ["espinacas", "queso de cabra", "ajo", "cebolla", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -128,6 +146,8 @@
   {
     "id": 10,
     "nombre": "Atún y Cebolla",
+    "descripcion": "Atún fresco del Atlántico con cebolla morada y alcaparras",
+    "ingredientes": ["atún", "cebolla", "alcaparras", "tomate", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -142,6 +162,8 @@
   {
     "id": 11,
     "nombre": "Jamón Ibérico",
+    "descripcion": "Jamón ibérico premium con arúgula y parmesano",
+    "ingredientes": ["jamón ibérico", "arúgula", "parmesano", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -156,6 +178,8 @@
   {
     "id": 12,
     "nombre": "Salmón Ahumado",
+    "descripcion": "Salmón ahumado con crema de queso y eneldo",
+    "ingredientes": ["salmón ahumado", "queso crema", "eneldo", "cebolla", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -170,6 +194,8 @@
   {
     "id": 13,
     "nombre": "Calabresa",
+    "descripcion": "Chorizo calabresa picante con cebolla y pimiento verde",
+    "ingredientes": ["chorizo calabresa", "cebolla", "pimiento", "tomate", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -184,6 +210,8 @@
   {
     "id": 14,
     "nombre": "Brokers",
+    "descripcion": "Brócoli, setas y cebolla con toque de ajo y queso",
+    "ingredientes": ["brócoli", "champiñones", "cebolla", "ajo", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -198,6 +226,8 @@
   {
     "id": 15,
     "nombre": "La Portuguesa",
+    "descripcion": "Jamón, huevo, cebolla y pimiento asado",
+    "ingredientes": ["jamón", "huevo", "cebolla", "pimiento asado", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -212,6 +242,8 @@
   {
     "id": 16,
     "nombre": "Barbacoa Roja",
+    "descripcion": "Carne de res con salsa barbacoa picante y chile rojo",
+    "ingredientes": ["carne de res", "chile rojo", "cebolla", "salsa barbacoa", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -226,6 +258,8 @@
   {
     "id": 17,
     "nombre": "Siciliana",
+    "descripcion": "Receta siciliana con berenjena, tomate y parmesano",
+    "ingredientes": ["berenjena", "tomate", "parmesano", "ajo", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -240,6 +274,8 @@
   {
     "id": 18,
     "nombre": "Gourmet",
+    "descripcion": "Jamón ibérico, salmón ahumado, queso de cabra y trufa negra",
+    "ingredientes": ["jamón ibérico", "salmón ahumado", "queso de cabra", "trufa negra", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -254,6 +290,8 @@
   {
     "id": 19,
     "nombre": "Tropical",
+    "descripcion": "Piña, plátano, coco rallado y jamón para un toque exótico",
+    "ingredientes": ["piña", "plátano", "coco", "jamón", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",
@@ -268,6 +306,8 @@
   {
     "id": 20,
     "nombre": "Especial de la Casa",
+    "descripcion": "Nuestra especialidad con ingredientes premium seleccionados",
+    "ingredientes": ["jamón ibérico", "champiñones", "queso de cabra", "parmesano", "mozzarella"],
     "tamaño": {
       "mediana": {
         "name": "mediana",

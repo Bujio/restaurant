@@ -13,11 +13,18 @@ export const renderPizzas = () => {
     const pizzaElement = document.createElement("div");
     pizzaElement.classList.add("pizza-item");
 
+    //Nobmre Pizza
     const namePizza = document.createElement("h2");
     namePizza.classList.add("name-pizza");
     namePizza.textContent = pizza.nombre;
     pizzaElement.appendChild(namePizza);
 
+    //Ingredientes
+    const descripcion = document.createElement("p");
+    descripcion.classList.add("descripcion-ingredientes");
+    descripcion.textContent = pizza.descripcion;
+    pizzaElement.appendChild(descripcion);
+    //Tamaño y precio
     const sizePizza = document.createElement("div");
     sizePizza.classList.add("price-size");
 
