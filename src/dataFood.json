@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "nombre": "Margarita",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 8.5
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 14.0
+      }
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Pepperoni",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 9.5
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 16.0
+      }
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Cuatro Quesos",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 10.0
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 17.5
+      }
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Carnívora",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 11.0
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 18.5
+      }
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Vegetariana",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 9.0
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 15.5
+      }
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Barbacoa",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 11.5
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 19.0
+      }
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Hawaiana",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 10.0
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 17.0
+      }
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Champiñones",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 8.5
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 14.5
+      }
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Espinacas y Queso de Cabra",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 10.5
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 18.0
+      }
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Atún y Cebolla",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 9.5
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 16.5
+      }
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "Jamón Ibérico",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 12.0
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 20.0
+      }
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Salmón Ahumado",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 11.5
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 19.5
+      }
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "Calabresa",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 10.0
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 17.0
+      }
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "Brokers",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 9.0
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 15.5
+      }
+    }
+  },
+  {
+    "id": 15,
+    "nombre": "La Portuguesa",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 10.5
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 18.0
+      }
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "Barbacoa Roja",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 11.5
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 19.5
+      }
+    }
+  },
+  {
+    "id": 17,
+    "nombre": "Siciliana",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 10.0
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 17.5
+      }
+    }
+  },
+  {
+    "id": 18,
+    "nombre": "Gourmet",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 12.5
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 21.0
+      }
+    }
+  },
+  {
+    "id": 19,
+    "nombre": "Tropical",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 9.5
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 16.5
+      }
+    }
+  },
+  {
+    "id": 20,
+    "nombre": "Especial de la Casa",
+    "tamaño": {
+      "mediana": {
+        "name": "mediana",
+        "precio": 13.0
+      },
+      "familiar": {
+        "name": "familiar",
+        "precio": 22.0
+      }
+    }
+  }
+]

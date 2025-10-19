@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: url('../assets/img/mejores\ pizzas\ italia.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  /* Altura responsive */
+  height: 40vh;
+  /* 100% del viewport height */
+  /* O usa min-height para que crezca si es necesario */
+  min-height: 300px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+
+  /* Asegura que el contenedor sea flexible */
+  width: 100%;
+}
+
+#pizzas-container{
+display: grid;
+grid-template-columns: repeat(4,1fr);
+
+}
+
+.pizza-item{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid rebeccapurple;
+}
+
+.price-size{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
