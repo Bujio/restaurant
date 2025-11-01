@@ -1,6 +1,7 @@
 body{
   margin: 0;
   padding: 0;
+  background-color: tan;
 }
 h1{
   text-transform: uppercase;
@@ -30,14 +31,14 @@ header {
   width: 100%;
 }
 
-#pizzas-container{
+#content{
 display: grid;
 grid-template-columns: repeat(4,1fr);
 
 }
 
 @media (max-width: 480px) {
-  #pizzas-container {
+  #content {
     grid-template-columns: 1fr 1fr;
     gap: 10px;
     padding: 10px;
@@ -58,3 +59,101 @@ grid-template-columns: repeat(4,1fr);
 
 }
 
+
+.home, .contact, .about {
+  width: 400px;
+  height: 40px;
+  text-align: center;
+}
+
+nav{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: burlywood;
+  position: fixed;
+  width: 100%;
+
+  button{
+    color: green;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin: 10px 0;
+    border: 2px solid saddlebrown;
+    border-radius: 9px;
+    background-color: wheat;
+  }
+}
+
+
+
+/* SOBRE NOSOTROS */
+
+/* Estilos para la página About */
+#content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: 'Georgia', serif;
+  line-height: 1.8;
+  color: #333;
+}
+
+#content h3 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #d32f2f;
+  /* Rojo italiano */
+  text-align: center;
+  margin-bottom: 40px;
+  position: relative;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+#content h3::after {
+  content: '🍕';
+  display: block;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+
+/* Alternativa sin emoji */
+#content h3::before {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: linear-gradient(to right, #d32f2f, #ff6b6b);
+  margin: 0 auto 20px;
+}
+
+.info {
+  font-size: 1.1rem;
+  margin-bottom: 25px;
+  padding: 20px;
+  background: #fafafa;
+  border-left: 4px solid #d32f2f;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.info:hover {
+  transform: translateX(5px);
+  box-shadow: 0 4px 12px rgba(211, 47, 47, 0.15);
+}
+
+.info:last-of-type {
+  font-style: italic;
+  background: linear-gradient(135deg, #fff5f5 0%, #fafafa 100%);
+  border-left-color: #ff6b6b;
+  font-weight: 500;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  #content {
+    padding: 30px 1
+
+  }}

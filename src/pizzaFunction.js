@@ -1,7 +1,9 @@
 import pizzasDB from "./dataFood";
 
 export const renderPizzas = () => {
-  const container = document.getElementById("pizzas-container");
+  const container = document.getElementById("content");
+
+
 
   pizzasDB.forEach((pizza) => {
     const nameMediana = pizza.tamaño.mediana.name;
